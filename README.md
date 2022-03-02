@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @ryanfunke
-- 👀 I’m interested in Cybersecurity, Software Engineering and Data Science
-- 🌱 I’m currently learning about network administration and common threats in Cybersecurity
+Hi, I'm Ryan Funke -- an undergraduate student at Purdue University studying Cybersecurity and Industrial Engineering.
+
+I’m interested in Cybersecurity, Software Engineering and Data Science; the contents of these repositories range from exercises and assignments from my studies or personal projects.
+
+I’m currently learning about network administration and common threats in Cybersecurity, but I love to push myself and learn new skills that assist me to code smarter, not harder.
+
+
 - 📫 How to reach me:
 
   Email: 
